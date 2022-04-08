@@ -1,0 +1,1 @@
+https://medium.com/@jun.chenying/how-to-create-a-composer-packagist-package-bdd414b9efd6

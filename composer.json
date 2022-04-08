@@ -1,0 +1,21 @@
+{
+    "name": "andreterceiro/test-package",
+    "description": "A test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andreterceiro\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andre de Paula Terceiro",
+            "email": "andre@terceiro.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
